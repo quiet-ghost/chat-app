@@ -1,0 +1,12 @@
+ node_modules/
+ dist/
+ .env
+
+ # Build outputs
+ build/
+ *.log
+
+ # IDE/Editor
+ .vscode/
+ .idea/
+ *.swp
